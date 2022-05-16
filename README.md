@@ -5,3 +5,5 @@ Hotel search tool built with React JS. Users are able to filter the type of hote
 Skills: React JS, CSS, Data flow management, DOM Manipulation
 
 Tools: CodeSandBox
+
+CodeSandBox link: https://uwnfn7.csb.app/
